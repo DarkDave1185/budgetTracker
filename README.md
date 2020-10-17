@@ -31,4 +31,4 @@ When brought back online:
 
 ## ScreenShots
 
-![$Trak]()
+![$Trak](https://github.com/DarkDave1185/budgetTracker/blob/master/public/screenshots/screenshot.JPG)
